@@ -365,10 +365,6 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 
 
-# mapa de la red
-
-
-
 # ¡Llegó!
 
 [![](img/ale.png)](https://upload.wikimedia.org/wikipedia/commons/7/7c/Ale._1ra_llamada_desde_la_cocina_09-02-25_LLRCC.webm)
