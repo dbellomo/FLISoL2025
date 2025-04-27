@@ -42,7 +42,7 @@ by [AlterMundi](https://altermundi.net)
 
 # Espiral virtuoso
 
-1. Las Guindas
+1. Las Guindas (UNRC)
 1. familias del paraje
 1. escuela rural
 1. bomberos
@@ -148,7 +148,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # Instituciones del territorio
 
 - Escuela rural José Gabriel Brochero
-- UNRC
+- UNRC / ICBIA
 - Asociación Civil Tierra Unida Activa (ACTUA)
 - Coop Electricidad, internet y tel Alpa Corral 
 - Bomberos Voluntarios
@@ -233,8 +233,16 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - prácticas en el territorio
   - sociocomunitarias, profesionales, TP, tesis ...
   - computación, telecomunicaciones, energía solar, agronomía, meteorología, filosofía ...
-- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente [(ICBIA)](https://icbia.conicet.gov.ar)
+- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente [(ICBIA)](https://icbia.conicet.gov.ar) CONICET / UNRC
 - Cátedra Libre de Soberanía Tecnológica [(CLiSTec)](https://clistec.libre.org.ar) en formación ... 
+
+
+
+### Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente (ICBIA)
+
+<br>
+
+![](img/logo_ICBIA.png)
 
 
 
