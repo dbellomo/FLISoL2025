@@ -8,8 +8,14 @@ Río Cuarto, 26 de Abril 2025
 
 #
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Red comunitaria y científica de telecomunicaciones en Las Lagunitas, Alpa Corral y Río de los Sauces<br><br>
-<b>Construyendo nuestro pedacito de Internet</b></span> <br><br>
+![](img/FLISoL_RioCuarto_2025_flyer.jpeg)
+
+
+
+#
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Red comunitaria y científica de telecomunicaciones en Las Lagunitas, Alpa Corral y Río de los Sauces<br><br><br>
+<b>Construyendo nuestro pedacito de Internet</b></span> <br><br><br>
 por <span property="cc:attributionName">Alicia Molina y Daniel Bellomo</span> <br>
 bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
@@ -22,7 +28,7 @@ bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" t
 - La región: Alpa Corral, Cerro Colorado, Lutti, ...
 <br /><br />
 
-### [el territorio](https://umap.hotosm.org/en/map/las-lagunitas_207#12/-32.5993/-64.6714)
+### [mapa del territorio](https://umap.hotosm.org/en/map/las-lagunitas_207#12/-32.5993/-64.6714)
 
 
 
@@ -187,6 +193,8 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # 
 
+##### asamblea
+
 ![](img/ACTUA_asamblea_3.jpeg)
 
 
@@ -232,9 +240,9 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # 
 
-- Programa para contingencias ante desastres naturales y mitigar los efectos del cambio climático en el paraje Las Lagunitas. (2023). Dir. Dr. José Raviolo (FAV)
-- Red Comunitaria de internet rural. (2022). Dir. Dr. Lucio Pinotti (exactas) (extensión)
-- Red comunitaria de internet rural (2022). Dir. Carlos Rang (FAV) (voluntariado universitario)
+- Programa para contingencias ante desastres naturales y mitigar los efectos del cambio climático en el paraje Las Lagunitas. (2023). *Dir. Dr. José Raviolo* (FAV)
+- Red Comunitaria de internet rural. (2022). *Dir. Dr. Lucio Pinotti* (exactas) (extensión)
+- Red comunitaria de internet rural (2022). *Dir. Veterinario Carlos Rang* (FAV) (voluntariado universitario)
 
 
 
@@ -244,7 +252,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-# 
+##### Gianni realizando las PPS
 
 ![](img/pps_1.jpeg)
 
@@ -284,7 +292,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 ![](img/camino_serrano_sur.jpeg)
 
-[Talleres de mapeo Colaborativo](https://tierraunidaactiva.github.io/fotos/20241123_un_mapa_para_villa_el_chacay.html)
+[Fotos de taller de mapeo colaborativo](https://tierraunidaactiva.github.io/fotos/20241123_un_mapa_para_villa_el_chacay.html)
 
 
 
@@ -303,8 +311,8 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 #
 
-- Fortalecimiento de procesos de soberanía tecnológica y prácticas contributivas en el marco de la red comunitaria y científica de internet en el paraje Las Lagunitas y zonas aledañas (2024). Dir. Dra. Aldana D'Andrea (Fac. humanas, proy. de ext)
-- Caracterización epidemiológica de zoonosis parasitarias en caninos en zonas rurales de la región de las Sierra de los Comechingones, Dir. Dr. Carlos Motta (PPI)
+- Fortalecimiento de procesos de soberanía tecnológica y prácticas contributivas en el marco de la red comunitaria y científica de internet en el paraje Las Lagunitas y zonas aledañas (2024). *Dir. Dra. Aldana D'Andrea* (Fac. humanas, proy. de ext)
+- Caracterización epidemiológica de zoonosis parasitarias en caninos en zonas rurales de la región de las Sierra de los Comechingones, *Dir. Dr. Carlos Motta* (PPI)
 
 
 
@@ -317,15 +325,21 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 #
 
 Restauración ambiental integral.
+- *Ing. forestal Natalia De Luca*
 - evaluación de la efectividad de técnicas de control de una especia exótica invasora del chaco serrano cordobés: Lantana Cámara
+
+<audio controls src="/audios/lantana_1.ogg"> </audio>
+<audio controls src="/audios/lantana_2.ogg"> </audio>
 
 [fotos](https://tierraunidaactiva.github.io/fotos/20240809_practicas_relevamiento_vegetacion.html)
 
+
+
 #
 
+##### Fausto realizando las PPS
 
-
-![](img/pps_fausto_1.jpeg)
+![](img/pps_fausto_5.png)
 
 
 
