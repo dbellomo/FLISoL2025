@@ -324,7 +324,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 #
 
-Restauración ambiental integral.
+Restauración ambiental integral
 - *Ing. forestal Natalia De Luca*
 - evaluación de la efectividad de técnicas de control de una especia exótica invasora del chaco serrano cordobés: Lantana Cámara
 
