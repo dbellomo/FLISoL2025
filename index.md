@@ -173,12 +173,6 @@ taller de mapeo colaborativo con 5 escuelas rurales
 
 
 
-# 
-
-![](img/taller_esc_rurales_3.jpg)
-
-
-
 # ACTUA
 
 - Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
