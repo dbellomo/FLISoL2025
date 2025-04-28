@@ -185,7 +185,8 @@ Asociación civil sin fines de lucro. Tiene como objetivo generar y promover el 
 
 - Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
 - Trabajo territorial
-- Coordinación del proyecto y gestión de recursos de la red
+- Coordinación del proyecto 
+- Gestión de recursos de la red
 
 
 
