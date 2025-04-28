@@ -169,6 +169,8 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 ![](img/taller_esc_rurales_2.jpg)
 
+taller de mapeo colaborativo con 5 escuelas rurales
+
 
 
 # 
