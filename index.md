@@ -303,7 +303,7 @@ asamblea
 
 
 
-# Taller de mapeo colaborativo
+# Talleres de mapeo colaborativo
 
 ![](img/camino_serrano_sur.jpeg)
 
