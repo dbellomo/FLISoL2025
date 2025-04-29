@@ -301,11 +301,12 @@ Asociación civil sin fines de lucro. Tiene como objetivo generar y promover el 
 
 
 
-# 
+# Taller de mapeo colaborativo
 
 ![](img/camino_serrano_sur.jpeg)
 
-[Fotos de taller de mapeo colaborativo](https://tierraunidaactiva.github.io/fotos/20241123_un_mapa_para_villa_el_chacay.html)
+[1er encuentro](https://tierraunidaactiva.github.io/fotos/20240928_un_mapa_para_villa_el_chacay.html) / 
+[2do encuentro](https://tierraunidaactiva.github.io/fotos/20241123_un_mapa_para_villa_el_chacay.html)
 
 
 
