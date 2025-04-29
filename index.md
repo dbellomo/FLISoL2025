@@ -198,13 +198,15 @@ Asociación civil sin fines de lucro. Tiene como objetivo generar y promover el 
 
 # 
 
-##### asamblea
+asamblea
 
 ![](img/ACTUA_asamblea_3.jpeg)
 
 
 
-# CADEL
+# 
+
+![](img/logo_cadel_1.png)
 
 - Proveedor de acceso a Internet
 - Infraestructura compartida
