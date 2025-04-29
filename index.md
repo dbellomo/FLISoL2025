@@ -310,6 +310,12 @@ Asociación civil sin fines de lucro. Tiene como objetivo generar y promover el 
 
 
 
+# 
+
+![](img/flyer_mapeo_chacay.jpg)
+
+
+
 # 2025
 
 - [Desafía a tu Universidad (CyT UNRC)](https://www.unrc.edu.ar/unrc/cienciaytecnica/desafiaatuuni.php)
