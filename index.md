@@ -183,7 +183,7 @@ Asociación civil sin fines de lucro. Tiene como objetivo generar y promover el 
 
 # ACTUA
 
-- Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
+- Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/) (en trámite)
 - Trabajo territorial
 - Coordinación del proyecto 
 - Gestión de recursos de la red
