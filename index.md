@@ -236,11 +236,10 @@ asamblea
 # UNRC
 
 - la "pata" científica de la red
-- espacio para hacer ciencia en la ruralidad con foco en las flias que la habitan
+- espacio para hacer ciencia en la ruralidad con foco en las familias que la habitan
 - prácticas en el territorio
   - sociocomunitarias, profesionales, TP, tesis ...
   - computación, telecomunicaciones, energía solar, agronomía, meteorología, filosofía ...
-- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente [(ICBIA)](https://icbia.conicet.gov.ar) CONICET / UNRC
 - Cátedra Libre de Soberanía Tecnológica [(CLiSTec)](https://clistec.libre.org.ar) en formación ... 
 
 
@@ -250,6 +249,8 @@ asamblea
 <br>
 
 ![](img/logo_ICBIA.png)
+
+https://icbia.conicet.gov.ar
 
 
 
