@@ -327,6 +327,7 @@ asamblea
 - Ing. en Telecomunicacies (Prácticas Profesionales Supervisadas)
 - [Meshtastic (D. Forchetti)](https://meshtastic.org/)
 - [mapeo humanitario colaborativo (HOT)](https://www.hotosm.org)
+- [LiderCom](https://lidercom.net.ar)
 - ...
 
 
