@@ -21,6 +21,13 @@ bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" t
 
 
 
+# 
+
+![](img/infografia.jpg)
+**Conectividad Centrada en la Comunidad**
+
+
+
 # Ruralidad
 
 - Campo Las Guindas (UNRC)
