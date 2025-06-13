@@ -159,7 +159,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - Asociación Civil Tierra Unida Activa (ACTUA)
 - Coop Electricidad, internet y tel Alpa Corral 
 - Bomberos Voluntarios
-- ETAC
+- Equipo Técnico de Acción ante Catástrofes (ETAC)
 - Coop electricidad de Río de los Sauces
 - Radioaficionados
 - Municipalidades 
